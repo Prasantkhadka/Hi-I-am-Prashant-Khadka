@@ -1,2 +1,2 @@
-# Hi I am Prashant Khadka
-# Full Stack developer
+# Prashant Khadka
+* Full Stack developer
